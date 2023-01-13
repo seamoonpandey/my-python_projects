@@ -4,7 +4,7 @@
 
 #install the package from internet of the python3 for windows 
 #for Linux
-# If you need help installing Python, visit https://installpython3.com/
+ If you need help installing Python, visit https://installpython3.com/
 ```bash
 sudo apt update
 sudo apt-get upgrade
