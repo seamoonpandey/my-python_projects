@@ -1,10 +1,13 @@
 # Python codes that might just take your Interest.
 
+If you need help installing Python, visit https://installpython3.com/
 1) Getting started..
 
-#install the package from internet of the python3 for windows 
-If you need help installing Python, visit https://installpython3.com/
-#for Linux
+~install the package from internet of the python3 for windows 
+
+
+
+~for Linux
  
 ```bash
 sudo apt update
@@ -31,5 +34,3 @@ Full documentation available at https://pyautogui.readthedocs.org
 Simplified Chinese documentation available at https://muxuezi.github.io/posts/doc-pyautogui.html
 
 Source code available at https://github.com/asweigart/pyautogui
-
-If you need help installing Python, visit https://installpython3.com/
