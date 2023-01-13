@@ -20,6 +20,7 @@ pip install pyautogui
 
 #for the random password generator
 pip install random
+/bin/python3 -m pip install -U autopep8
 ```
 
 Full documentation available at https://pyautogui.readthedocs.org
