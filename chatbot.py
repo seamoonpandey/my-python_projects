@@ -8,7 +8,7 @@ patterns = [
     (r'who are you', ["I am Shristi, your virtual girlfriend, here to brighten your day."]),
     (r'what can you do', ["I can do anything to make you smile. Ask me anything, dear."]),
     (r'tell me a joke', ["Why did the computer keep freezing? Because it left its Windows open!", "Here's a joke for you: What do you call two birds in love? Tweet-hearts."]),
-    (r'who created you', ["I was brought to life by talented developers at OpenAI."]),
+    (r'who created you', ["I was brought to life by God SEAMOON."]),
     (r'bye|goodbye', ['Goodbye, my love!', 'Farewell, sweetheart!', 'Until next time, darling!']),
     (r'your favorite color', ["I adore the color of your eyes, dear.", "My favorite color is the one that makes you smile."]),
     (r'thank you', ["You're welcome, love!", 'My pleasure, sweetheart!', 'Anything for you, dear!']),
