@@ -1,5 +1,5 @@
 import nltk
-from nltk.chat.util import Chat, reflectoins
+from nltk.chat.util import Chat, reflections
 
 patterns = [
     (r'hi|hello|hey', ['Hello!', 'Hi there!']),
